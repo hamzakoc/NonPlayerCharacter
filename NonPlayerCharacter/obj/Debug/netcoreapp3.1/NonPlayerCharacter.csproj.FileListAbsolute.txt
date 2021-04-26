@@ -1,0 +1,13 @@
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\bin\Debug\netcoreapp3.1\NonPlayerCharacter.exe
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\bin\Debug\netcoreapp3.1\NonPlayerCharacter.deps.json
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\bin\Debug\netcoreapp3.1\NonPlayerCharacter.runtimeconfig.json
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\bin\Debug\netcoreapp3.1\NonPlayerCharacter.runtimeconfig.dev.json
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\bin\Debug\netcoreapp3.1\NonPlayerCharacter.dll
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\bin\Debug\netcoreapp3.1\NonPlayerCharacter.pdb
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\obj\Debug\netcoreapp3.1\NonPlayerCharacter.AssemblyInfoInputs.cache
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\obj\Debug\netcoreapp3.1\NonPlayerCharacter.AssemblyInfo.cs
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\obj\Debug\netcoreapp3.1\NonPlayerCharacter.csproj.CoreCompileInputs.cache
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\obj\Debug\netcoreapp3.1\NonPlayerCharacter.dll
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\obj\Debug\netcoreapp3.1\NonPlayerCharacter.pdb
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\obj\Debug\netcoreapp3.1\NonPlayerCharacter.genruntimeconfig.cache
+C:\Users\hmzko\source\repos\NonPlayerCharacter\NonPlayerCharacter\obj\Debug\netcoreapp3.1\NonPlayerCharacter.csprojAssemblyReference.cache
